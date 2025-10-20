@@ -49,9 +49,8 @@ lib/core/          # BLoC logic
 
 lib/models/        # Data models
 
-assets/fonts/      # Poppins font files
+assets/     # Screenshots or demo images
 
-screenshots/       # Screenshots or demo images
 
 # Screenshots / Demo
 
