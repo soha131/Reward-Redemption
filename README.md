@@ -19,16 +19,21 @@ It also features a custom Splash Screen to reflect Drop Me’s identity as an Eg
 
 # Getting Started
 
+   **Flutter Version:** 3.29.3  
+
 Follow these steps to run the project locally:
 
 1. Clone the repository
-git clone <repository-url>
-cd drop-me-task
+   
+   git clone https://github.com/soha131/reward_redemption.git
+   
+   cd drop-me-task
 
-2. Install dependencies
-flutter pub get
+3. Install dependencies
+   
+   flutter pub get
 
-3. Font Setup
+4. Font Setup
    
    Using google_fonts package requires an internet connection.
 
