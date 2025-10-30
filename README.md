@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 
 4. Font Setup
    
-   Using google_fonts package requires an internet connection.
+   Using the Google Fonts package requires an internet connection.
 
     Poppins-Regular.ttf
 
